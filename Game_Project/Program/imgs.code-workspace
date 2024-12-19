@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "imgs",
+			"path": "../../gamepoo/imgs"
+		},
+		{
+			"name": "Program",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
